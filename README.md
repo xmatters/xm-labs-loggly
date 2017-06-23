@@ -22,7 +22,7 @@ Sadly though, due to the constraints within Loggly this is a one-way only integr
 
 * [Loggly.zip](Loggly.zip) - The comm plan (that has all the scripts and email format and such)
 * [Loggly_Incoming.js](Loggly_Incoming.js) - The Integration Builder JS to setup the inbound integration into xM, should you need it standalone to the Comm Plan.
-* [Media/Loggly_xMatters_Integration.mp4](Loggly_xMatters_Integration.mp4) - Video example of the finished integration
+* [Loggly_xMatters_Integration.mp4](Media/Loggly_xMatters_Integration.mp4) - Video example of the finished integration
 
 
 # Installation
