@@ -35,10 +35,10 @@ Sadly though, due to the constraints within Loggly this is a one-way only integr
 1. Create a free trial at [loggly.com](http://www.loggly.com) if you need an account.
 2. Create a Loggly alert, and select the Send to an endpoint check box.
 3. Click Add New, and then configure the endpoint as follows:
-	Endpoint: select HTTP Endpoint
-	Name: type the name to use for this endpoint.
-	URL: paste the webhook URL from xMatters that we copied before.
-	Method: Select POST
+* **Endpoint**: select HTTP Endpoint
+* **Name**: type the name to use for this endpoint.
+* **URL**: paste the webhook URL from xMatters that we copied before.
+* **Method**: Select POST
 4. Click Save to create the endpoint, and then save the alert.
 
 
