@@ -7,6 +7,7 @@ This xM Labs Integration allows you to connect up a Loggly instance to an xMatte
 
 Sadly though, due to the constraints within Loggly this is a one-way only integration.  It does however send through the URL to the search so you can easily jump into Loggly at the correct place.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AijrVeEzVIo/0.jpg)](https://youtu.be/AijrVeEzVIo)
 
 # Pre-Requisites
 
@@ -18,7 +19,7 @@ Sadly though, due to the constraints within Loggly this is a one-way only integr
 
 * [Loggly.zip](Loggly.zip) - The comm plan (that has all the scripts and email format and such)
 * [Loggly_Incoming.js](Loggly_Incoming.js) - The Integration Builder JS to setup the inbound integration into xM, should you need it seperate from the Comm Plan.
-* [Loggly_xMatters_Integration.mp4](Media/Loggly_xMatters_Integration.mp4) - Video example of the finished integration
+
 
 
 # Installation
