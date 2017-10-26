@@ -9,6 +9,15 @@ Sadly though, due to the constraints within Loggly this is a one-way only integr
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AijrVeEzVIo/0.jpg)](https://youtu.be/AijrVeEzVIo)
 
+---------
+
+<kbd>
+  <img src="https://github.com/xmatters/xMatters-Labs/raw/master/media/disclaimer.png">
+</kbd>
+
+---------
+
+
 # Pre-Requisites
 
 * Loggly account (http://www.loggly.com)
