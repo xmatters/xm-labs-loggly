@@ -12,7 +12,9 @@ Sadly though, due to the constraints within Loggly this is a one-way only integr
 ---------
 
 <kbd>
+	<a href="https://support.xmatters.com/hc/en-us/community/topics">
   <img src="https://github.com/xmatters/xMatters-Labs/raw/master/media/disclaimer.png">
+	</a>
 </kbd>
 
 ---------
@@ -26,8 +28,8 @@ Sadly though, due to the constraints within Loggly this is a one-way only integr
 
 # Files
 
-* [Loggly.zip](Loggly.zip) - The comm plan (that has all the scripts and email format and such)
-* [Loggly_Incoming.js](Loggly_Incoming.js) - The Integration Builder JS to setup the inbound integration into xM, should you need it seperate from the Comm Plan.
+* [Loggly.zip](Loggly.zip) - The workflow (that has all the scripts and email format and such)
+* [Loggly_Incoming.js](Loggly_Incoming.js) - The Integration Builder JS to setup the inbound integration into xM, should you need it seperate from the Workflow.
 
 
 
@@ -35,7 +37,7 @@ Sadly though, due to the constraints within Loggly this is a one-way only integr
 
 ## xMatters set up
 
-1. Load in the attached [Loggly.zip](Loggly.zip) Comm Plan.
+1. Load in the attached [Loggly.zip](Loggly.zip) Workflow.
 2. Review the Form (Loggly Alert) configuration - you may want to change the message options (i.e. turn off voice in devices) and add recipients.
 3. Within the Integration Builder, edit the incoming integration (Loggly Incoming) and copy the integration URL.
 
