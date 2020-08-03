@@ -29,8 +29,6 @@ Sadly though, due to the constraints within Loggly this is a one-way only integr
 # Files
 
 * [Loggly.zip](Loggly.zip) - The workflow (that has all the scripts and email format and such)
-* [Loggly_Incoming.js](Loggly_Incoming.js) - The Integration Builder JS to setup the inbound integration into xM, should you need it seperate from the Workflow.
-
 
 
 # Installation
@@ -39,19 +37,20 @@ Sadly though, due to the constraints within Loggly this is a one-way only integr
 
 1. Load in the attached [Loggly.zip](Loggly.zip) Workflow.
 2. Review the Form (Loggly Alert) configuration - you may want to change the message options (i.e. turn off voice in devices) and add recipients.
-3. Within the Integration Builder, edit the incoming integration (Loggly Incoming) and copy the integration URL.
+3. Go to the Loggly Alert flow and copy the URL found in the **Loggly Alert - Inbound from Loggly**
 
 
 ## Loggly set up
 
 1. Create a free trial at [loggly.com](http://www.loggly.com) if you need an account.
-2. Create a Loggly alert, and select the Send to an endpoint check box.
+2. Create a Loggly alert endpoint.
 3. Click Add New, and then configure the endpoint as follows:
 * **Endpoint**: select HTTP Endpoint
 * **Name**: type the name to use for this endpoint.
 * **URL**: paste the webhook URL from xMatters that we copied before.
 * **Method**: Select POST
-4. Click Save to create the endpoint, and then save the alert.
+4. Click Save to create the endpoint, and then save the alert endpoint.
+5. Attach this alert endpoint to an Alert to begin notifying xMatters.
 
 
 # Testing
