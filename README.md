@@ -19,6 +19,10 @@ Sadly though, due to the constraints within Loggly this is a one-way only integr
 
 ---------
 
+An updated version of this integration is available, supporting the latest version of Solarwinds Loggly and based on xMatters Flow Designer so you can easily connect other tools to your toolchain. [Learn more](http://help.xmatters.com/integrations/#cshid=Loggly).
+
+---------
+
 
 # Pre-Requisites
 
